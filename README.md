@@ -1,4 +1,4 @@
-What's in here? 
+What's in here? (Use the updated directory)
 
 originals: These are the original files pulled from ADHS's vaccine data website. 
 
